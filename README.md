@@ -4,7 +4,7 @@ I am Master Student in Data Science and Applied Information at Lucerne Universit
 
 🔭 I’m currently working on implementing Data Science in Construction Safety Management as my thesis topic. I am creating Machine learning algorithims to predict accidents on site ⚠️👷‍♂️.
 
-- I complete several fun and creative projects:
+I complete several fun and creative projects:
 
 - Data Base Management -> Restaurant Reviews in the USA 🍴
 - Web Scraping (Collection, Integration & Preprocessing) -> Crypto Trend Analyzer 💰📈
