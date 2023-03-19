@@ -14,6 +14,7 @@ I complete several fun and creative projects:
 - Machine Learning -> ML in Heart Disease 💔
 - Deep Learning -> Recycling waste ♻️
 - Deep Learning -> Identification of Spam Messages ✉️🚫
+- Deep Learning -> Classification of Cats & Dogs 😸🐶
 <!--
 **hfah/hfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
